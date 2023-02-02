@@ -1,0 +1,26 @@
+{
+  "name": "grid-log",
+  "version": "1.0.0",
+  "description": "A logging utility that handles multi-line strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-kruse/grid-log.git"
+  },
+  "keywords": [
+    "log",
+    "multiline"
+  ],
+  "author": "Matt Kruse <github@mattkruse.com> (http://mattkruse.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matt-kruse/grid-log/issues"
+  },
+  "homepage": "https://github.com/matt-kruse/grid-log#readme"
+}
