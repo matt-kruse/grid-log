@@ -4,6 +4,8 @@ A logging utility that handles multi-line strings.
 
 `console.log()` does not display multi-line strings, nor does `console.table()`. This util lets you log strings in a grid format.
 
+**Note:** The fonts used on npmjs.com do not render table characters correctly below. View examples at https://github.com/matt-kruse/grid-log#readme  
+
 # Usage
 
 #### 
